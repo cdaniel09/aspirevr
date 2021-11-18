@@ -1,0 +1,91 @@
+﻿ASPIRE VR PRIVACY POLICY
+1. SCOPE
+This Privacy Policy applies to personal information processed by us ASPIRE VR, in our VR game developed for the Quest Headsets. ASPIRE VR is a social VR Training experience designed for teachers and students of all ages to learn new skills together in an immersive setting. 
+
+
+If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the experience. We will not share, sell, or expose your personal information to anyone except as described in this Privacy Policy.
+
+
+This experience is designed to connect individuals through the OCULUS platform and the META platform. We recommend you check out the privacy policy of both companies to get a full picture of your rights and protections.
+
+
+Oculus Privacy Policy https://www.oculus.com/legal/privacy-policy-for-oculus-account-users/
+
+
+Meta/Facebook Privacy Policy
+https://www.facebook.com/about/privacy/update?ref=old_policy
+
+
+
+
+Your privacy is important to us. We are proud supporters of the CCPA, GDPR, and the IIW. We aim to create an environment where users are informed about the various uses of their data and how to protect their data from those who would like to exploit it.
+
+
+You can learn more about these organizations and regulations at:
+CCPA - California Consumer Privacy Act - https://oag.ca.gov/privacy/ccpa
+GDPR - General Data Protection Regulations - https://gdpr-info.eu/
+IIW - Internet Identity Workshop: https://internetidentityworkshop.com/ 
+2. PERSONAL INFORMATION WE COLLECT
+The categories of personal information we collect depend on how you interact with us, our Services, and the social requirements of this app.
+
+
+FOR EVERYONE OVER 13
+Information You Give Us. 
+* Information we receive through device settings you choose, such as your photos, videos, audio content, slides, and other teaching materials.
+* When signing up for the app: we ask for information such as your name, email address, and phone number. (You will have the ability to add/change information on your profile after registration).
+* If you provide payment information or buy something on or through our app, we collect information about the transaction, including your payment information, purchase activity, and contact details.
+* When you post, share or communicate with us or other users in our Experience, we receive and store those communications and information associated with them, such as the date a post was created.
+FOR EVERYONE OVER 13
+Information We AND OCULUS & META Collect. 
+* We collect information about the people you connect to and how you interact with them across Oculus Products. Information about your interactions with Oculus Products, like information about the people, games, content, apps, features, or other experiences you interact with, including information collected through or from content provided by our third-party partners (ie META/FACEBOOK). 
+* Information collected in or through cookies, local storage, pixels, and similar technologies (additional information about these technologies is available at https://www.oculus.com/legal/cookies-pixels-and-other-technologies/);
+* Information about how you access our Experience, including information about the type of device you're using (such as a headset, PC, mobile, or other connected device), its configuration (such as your operating system and graphics processing unit), your browser, Internet Protocol ("IP") address, and how your device is performing.
+* We collect content you create using our experience, such as your avatar, a picture you post, or an object you sculpt, and information about this content, such as the date and time you created the content, the storage size and type of asset.
+* When you use our voice services, we process your voice interactions to respond to your request, provide the requested service to you, and improve our voice services. 
+* Location-related information, which can be derived from information such as your device’s IP address. If you’re using a mobile device, our experience will collect information about the device’s precise location, which is derived from sources such as the device’s GPS signal and information about nearby Wi-Fi networks and cell towers.
+* Information about your environment, physical movements, and dimensions when you use an XR device. For example, when you set up the Oculus Guardian System to alert you when you approach a boundary, we receive information about the play area that you have defined; and when you enable the hand tracking feature, we collect technical information like your estimated hand size and hand movement data to enable this feature.
+* Technical system information such as crash logs which may contain your user ID, device ID, IP address, local computer file path, feature quality, amount of time it takes to load a feature, and whether you use a certain feature.
+FOR ANYONE UNDER 13
+Children’s Privacy Policy
+This Experience does not address anyone under the age of 13 (in America) (or 14 for people living in South Korea or Spain.) We do not knowingly collect personally identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions. This is compliance with FACEBOOK’s TERMS OF SERVICE AGREEMENT (section 3.1)
+
+
+3. HOW WE USE THIS DATA
+We use the information to provide a high-quality, interactive and SOCIAL experience that you can teach and learn in. Examples of data use are outlined below.
+
+
+        We use your data to:
+* Enable certain features, such as hand tracking and voice services;
+* Enable user-to-user communications and other related services;
+* Provide technical support;
+* Notify you about updates to ourExperience. 
+* Customize your experiences to better suit your learning style
+* Provide you with a way to verbally send messages to contacts
+* Provide you with a way to verbally connect with your calendar or other Events apps
+* Connect you with classes and other students and teachers
+* Create accounts and user profiles.
+* Communicate with you about other classes you may like.
+* Verify accounts and activity, 
+* Combat harmful conduct, detect and prevent bad experiences, maintain the integrity of our Experience.
+* Promote safety and security for all users
+
+
+We may use your data to:
+* Investigate suspicious activity or violations of our terms or policies.
+* Detect when someone needs help
+* Protect our IP.
+4. DATA RETENTION AND DELETION
+We want to inform you that whenever you use our Experience, (in the case of an error in the app) we collect data and information called a Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics. This can help us develop a better, more stable app with additional features. 
+We store data that identifies you until it is no longer necessary to provide our Experience or your Oculus or Facebook account is deleted, whichever comes first. 
+We may retain your data for:
+A period after it is “no longer necessary” in order to comply with law or recordkeeping obligations, to respond to a legal request, prevent harm, or to improve our safety, integrity and security features. 
+This is a case-by-case determination that depends on things like the nature of the data, why it is collected and processed, and relevant legal, integrity or operational retention needs. For example, we retain certain purchase information for accounting and tax purposes even after you have deleted your account.
+When you delete your account, we delete things you have posted and information about apps and entitlements you have downloaded, and you will not be able to recover that information later. Information that others have shared about you is not part of your account and will not be deleted when you delete your account. 
+
+
+
+
+        
+
+
+Privacy Policy
